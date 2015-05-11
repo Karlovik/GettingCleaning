@@ -1,4 +1,4 @@
-# GettingCleaning
+# Getting and Cleaning Data Assessment
 
 This repository contains only one script "run_analysis.r"
 ##run_analysis.r
