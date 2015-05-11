@@ -1,4 +1,7 @@
 # GettingCleaning
+
+This repository contains only one script "run_analysis.r"
+##run_analysis,r
 - Create variables with the names of the files inlcuding the data, the names of the variables, the activites and the subjects
 - Read the files with read.table
 - Name the variables of the data
